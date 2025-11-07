@@ -21,11 +21,69 @@ It gives you a single, clear, and _complete_ picture of your entire financial li
 >
 > **Plan Your Future:** Set and track your goals, from saving for a new car to planning for retirement.
 
-![](assets/screenshot-dashboard.png)
-
 <br />
 
----
+<div style="display: flex; justify-content: center;">
+ <img src="assets/screenshot-marketing-hero.png" style="width:50%;border-radius: 10px;"/>
+</div>
+
+<br />
+<br />
+
+> ### **From 0-to-1: The Tumaio MVP in Action**
+
+<br/>
+
+<p style="font-size: 14px; max-width: 600px; text-align: justify;">> As a solo founder, I've architected, designed, and built the entire MVP. This gallery is the real, tangible proof of that 0-to-1 process in action.</p>
+
+<br/>
+<div style="display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); align-items: start;">
+  <div style="display: flex; flex-direction: column; gap: 5px;">
+  <img src="assets/screenshot-dashboard-dark.png" style="width:100%; object-fit: contain; border-radius: 10px; border: 1px solid #fafafa10;"/>
+  <p style="text-align: center; font-size: 14px; font-weight: bold; margin-top: 10px;">The 360° Dashboard</p>
+  <p style="text-align: center; font-size: 14px; color: #fafafa90;">A high-level command center to see your Net Worth, Cash Flow, and key spending categories at a glance.</p>
+  </div>
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+  <img src="assets/screenshot-spending-light.png" style="width:100%; object-fit: contain; border-radius: 10px; border: 1px solid #fafafa10;"/>
+  <p style="text-align: center; font-size: 14px; font-weight: bold; margin-top: 10px;">Spending & Cash Flow Analytics</p>
+  <p style="text-align: center; font-size: 14px; color: #fafafa90;">Drill-down charts to track your spending habits, identify opportunities, and see your cash flow over time.</p>
+  </div>
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+  <img src="assets/screenshot-import-transactions.png" style="width:100%; object-fit: contain; border-radius: 10px; border: 1px solid #fafafa10;"/>
+  <p style="text-align: center; font-size: 14px; font-weight: bold; margin-top: 10px;">Strategic "Competitor Rescue" Tool</p>
+  <p style="text-align: center; font-size: 14px; color: #fafafa90;">A custom-built importer to rescue frustrated users from failing apps like Spendee, Monarch, or Mint.</p>
+  </div>
+</div>
+
+<br/>
+
+> ### **The Core Financial Ecosystem**
+
+<br/>
+
+<p style="font-size: 14px; max-width: 600px; text-align: justify;">> These are not just features; they are a complete, interconnected system designed to solve the user's core financial problems, from onboarding to planning.</p>
+
+<br/>
+
+<div style="display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); align-items: start;">
+  <div style="display: flex; flex-direction: column; gap: 5px;">
+    <img src="assets/screenshot-add-account-dark.png" style="width:100%; height: 400px; object-fit: contain; border-radius: 10px; border: 1px solid #fafafa10;"/>
+    <p style="text-align: center; font-size: 14px; font-weight: bold; margin-top: 10px;">The "Manual-First" Onboarding Hub</p>
+    <p style="text-align: center; font-size: 14px; color: #fafafa90;">The "open-door" to your finances. A "manual-first" system built to connect all assets—from cash and property to CSVs and competitor imports.</p>
+  </div>
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="assets/screenshot-wealth-light-mobile.png" style="width:100%; height: 400px; object-fit: contain; border-radius: 10px; border: 1px solid #fafafa10;"/>
+    <p style="text-align: center; font-size: 14px; font-weight: bold; margin-top: 10px;">The Unified Net Worth Engine</p>
+    <p style="text-align: center; font-size: 14px; color: #fafafa90;">The core of the PFM. A multi-currency engine that tracks all assets (bank accounts, property) and debts to give you a true, real-time Net Worth.</p>
+  </div>
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="assets/screenshot-spending-plan-dark.png" style="width:100%; height: 400px; object-fit: contain; border-radius: 10px; border: 1px solid #fafafa10;"/>
+    <p style="text-align: center; font-size: 14px; font-weight: bold; margin-top: 10px;">The "Inflation-Aware" Planning Tool</p>
+    <p style="text-align: center; font-size: 14px; color: #fafafa90;">This is not a simple budget. This is a goals (Metas) and planning (Orçamento) tool built from the ground up for a high-inflation environment.</p>
+  </div>
+</div>
+
+## <br/>
 
 <br />
 
