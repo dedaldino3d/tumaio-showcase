@@ -2,7 +2,7 @@
 
 <br />
 
-![Status](httpsd://img.shields.io/badge/Status-Active%20(MVP in progress)-brightgreen)
+![Status](<https://img.shields.io/badge/Status-Active%20(MVP%20in%20progress)-brightgreen>)
 ![Role](https://img.shields.io/badge/Role-%20Founder%20%26%20Engineer-blue)
 
 ---
